@@ -27,7 +27,7 @@ class UserSeeder extends Seeder
             'password' => Hash::make('123456'),
             'tel' => '0987654321',
             'avatar' => 'https://via.placeholde.com/400x400.png/005429?text=udses',
-            'role' => '1',
+            'role' => '5',
             'remember_token' => '1098763645'
         ];
 
